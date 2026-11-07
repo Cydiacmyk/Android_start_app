@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/system/bin/bash
 # /data/adb/launch.sh —— Magisk root 下按包名一键启动应用
 #
 # 用法:
